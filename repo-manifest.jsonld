@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tlsfuzzer/python-ecdsa/commit/bff40c6cf2340148d410d5b3def0e949c547caf1",
       "git:hexsha": "bff40c6cf2340148d410d5b3def0e949c547caf1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tlsfuzzer/python-ecdsa/commit/3a15318fd9c2ab6bb558cbddb67fbf1757bd3766",
